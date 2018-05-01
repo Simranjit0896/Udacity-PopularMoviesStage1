@@ -1,0 +1,30 @@
+<resources>
+
+<!-- Created by Simranjit Singh -->
+
+    <string name="app_name">Popular Movies</string>
+
+    <string name="action_refresh">Refresh</string>
+    
+
+    <string name="movie_title_example">Popular Movies(2018)</string>
+    <string name="synopsis_example">After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.</string>
+    <string name="user_rating_title">User Rating</string>
+    <string name="release_date_example">2018–01–18</string>
+	<string name="action_popular_movies">Sort by Popular Movies</string>
+    <string name="action_top_rated_movies">Sort by Top Rated Movies</string>
+    <string name="description">Movie Description</string>
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+	<string name="user_rating_example">9.0/10</string>
+    <string name="release_date_title">Release Date</string>
+	<string name="error_need_internet_conncetion">Error! This application needs Internet conncetion.</string>
+
+
+    <!-- TMDB Key and Sort Methods -->
+    <string name="api_key">"ENTER_API_KEY_HERE"</string>
+    <string name="path_popular_movie">popular</string>
+    <string name="path_top_rated_movie">top_rated</string>
+</resources>
