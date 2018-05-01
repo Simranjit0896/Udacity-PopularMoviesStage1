@@ -24,7 +24,7 @@
 
 
     <!-- TMDB Key and Sort Methods -->
-    <string name="api_key">"ENTER_API_KEY_HERE"</string>
+    <string name="api_key">"API_KEY"</string>
     <string name="path_popular_movie">popular</string>
     <string name="path_top_rated_movie">top_rated</string>
 </resources>
